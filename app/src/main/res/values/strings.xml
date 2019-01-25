@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DaVinci</string>
+    <string name="Color">color</string>
+    <string name="Save">Save</string>
+    <string name="lineWidth">Line Width</string>
+    <string name="erase">Erase</string>
+    <string name="clear">Clear</string>
+    <string name="set_width">Set Width</string>
+    <string name="label_alpha">Alpha</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+    <string name="set_color">Set Color</string>
+    <string name="loadFile">Load Last File</string>
+    <string name="rectangle">Draw Rectangle</string>
+    <string name="circ">Draw Circle</string>
+    <string name="width_rect">Width</string>
+    <string name="choose_rectangle">Choose Rectangle</string>
+    <string name="check_filled_rect">Filled</string>
+    <string name="choose_circle">Choose Circle</string>
+</resources>
